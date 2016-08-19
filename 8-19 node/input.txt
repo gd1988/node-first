@@ -1,0 +1,1 @@
+﻿node.js  stream流 是一个抽象接口
